@@ -1,0 +1,24 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #e9b1be ;
+}
+
+#projects{
+    background-color: #d08092 ;  
+}
+
+#about{
+    background-color: #f0c8db;  
+}
+#gallery{
+    background-color: #f0c8db;  
+}
+
+.card:hover
+{
+    scale: 1.1;
+}
+
+section {
+    padding-top: 7rem;
+ }
